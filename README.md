@@ -5,3 +5,4 @@ Projeto Integrador 1: Coleta, análise e visualização de dados de acidentes de
 -----------------------------------------------------------MEMBROS----------------------------------------------------------------
 
 VICTOR ALVES RIBEIRO FERNANDES, P.O DO PROJETO.
+LUCAS HENRIQUE MONTEIRO, ARQUITETO (Dev Team) FRONT/BACK
